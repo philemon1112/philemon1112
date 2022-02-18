@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## &#x1f4c8; My GitHub Stats
+# 😏 coming soon ... 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philemon1112&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philemon1112&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=philemon1112&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=philemon1112&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
