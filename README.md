@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philemon1112
 - 👀 I’m interested in javascript programming
-- 🌱 I’m currently learning tailwindcss and typescript
+- 🌱 I’m currently learning vuejs and Nuxtjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
